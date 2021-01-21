@@ -1,6 +1,6 @@
 # Hello world 👋
 
-Checkout my <a href="https://www.react-native.cz" title="React Native Developer" target="_blank">React Native portfolio website</a> and my open-source React Native UI library <a href="https://github.com/janziemba/react-native-basic-ui" title="React Native UI library">react-native-basic-ui</a>.
+Check out my <a href="https://www.react-native.cz" title="React Native Developer" target="_blank">React Native portfolio website</a> and my open-source React Native UI library <a href="https://github.com/janziemba/react-native-basic-ui" title="React Native UI library">react-native-basic-ui</a>.
 
 ![Jan Ziemba's Github stats](https://github-readme-stats.vercel.app/api?username=janziemba&theme=dark&count_private=true&hide=stars,prs,issues,contribs)
 
